@@ -40,7 +40,7 @@
     "uniqCompNum": 3,
     "versionPublish": "4.12.3",
     "imageResize": true,
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/20191015-162022-1-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
